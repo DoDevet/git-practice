@@ -1,7 +1,7 @@
-login 0
+main 0
 -
 login 1
 -
 login 2
 -
-login 3
+login main 3
